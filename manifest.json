@@ -3,7 +3,7 @@
   "name": "TaskFlow Organizer",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/2098/2098402.png",
+      "src": "taskflow-icon.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any maskable"
